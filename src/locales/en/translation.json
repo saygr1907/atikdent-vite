@@ -1,0 +1,120 @@
+{
+  "nav_about": "About Us",
+  "nav_doctors": "Doctors",
+  "nav_services": "Services",
+  "nav_gallery": "Gallery",
+  "nav_reviews": "Reviews",
+  "nav_contact": "Contact",
+  "cta_appointment": "Book Appointment",
+
+  "hero_title": "Healthy Smiles, Trustworthy Hands",
+  "hero_text": "With regular check-ups, tartar cleaning, follow-up and hygiene sessions, you stay happy and your teeth stay healthy.",
+
+  "about_title": "About Us",
+  "about_text": "Oral and dental health is not only an aesthetic issue; it is an inseparable part of quality of life, general health and self-confidence.\n     At Atikdent, we provide dentistry practices that are tailored to the needs of each individual, based on scientific foundations and focused on long-term results.\n",
+
+  "contact_title": "Get in Touch",
+  "contact_text": "You can reach us for appointments and questions using the information below.",
+  "form_name": "Your Name",
+  "form_email": "Email",
+  "form_message": "Your Message",
+  "form_submit": "Send",
+
+  "footer_copy": "© {{year}} Atikdent Dental Clinic. All rights reserved.",
+  "footer_quick": "Quick Access",
+
+  "feature_smile_title": "Friendly Service",
+  "feature_smile_desc": "We always offer you a warm and welcoming environment.",
+  "feature_tech_title": "Modern Technology",
+  "feature_tech_desc": "We work with state-of-the-art digital dentistry equipment.",
+  "feature_care_title": "Personalized Care",
+  "feature_care_desc": "We shape your treatment plan entirely with your feedback.",
+
+  "doctors_title": "Our Doctors",
+  "doctors_sub": "Meet our professional team.",
+
+  "services_title": "Our Services",
+  "services_sub": "In the treatment process, we act with the awareness that we are not only treating a tooth, but touching a person’s life. You can review the treatment headings below that may be suitable for you and access detailed information about each of them on our subpages.\n",
+
+  "service_general_title": "General Dental Care",
+  "service_general_desc": "Healthy teeth with regular check-ups and hygiene sessions.",
+
+  "service_cosmetic_title": "Cosmetic Filling & Veneer",
+  "service_cosmetic_desc": "High-quality materials for a natural appearance.",
+
+  "service_implant_title": "Implant Treatment",
+  "service_implant_desc": "Thanks to titanium screws (implants) placed into the jawbone, fixed dental prostheses can be applied to replace missing teeth. It is the closest solution to natural teeth in terms of aesthetics and function. For patients with suitable bone structure, it is a long-lasting treatment option.",
+
+  "service_whitening_title": "Teeth Whitening (Bleaching)",
+  "service_whitening_desc": "A procedure in which discolored teeth are lightened by several shades using special gels and light systems. In-clinic whitening provides fast and safe results. It is ideal for those who want to achieve an aesthetic smile in a short time.",
+
+  "service_zirconium_title": "Zirconium Crowns",
+  "service_zirconium_desc": "Aesthetic dental crowns made of white zirconium-based materials. They are metal-free and, thanks to their light transmittance, have a natural tooth-like appearance. They are especially preferred for anterior (front) teeth aesthetics.",
+
+  "service_veneer_title": "Laminate (Composite Veneer)",
+  "service_veneer_desc": "Aesthetic procedures made with a thin layer of composite material applied to the tooth surface. They are used to change the shape and color of the teeth quickly. Tooth reduction is kept at a minimum and the procedure is often completed in a single session.",
+
+  "service_ortho_title": "Orthodontics (Braces Treatment)",
+  "service_ortho_desc": "The classic bracket system that corrects crowded teeth and bite problems. It can be applied with metal or aesthetic (clear) brackets. It is suitable for both children and adults.",
+
+  "service_clearalign_title": "Clear Aligners (Invisalign)",
+  "service_clearalign_desc": "An aesthetic orthodontic method that aligns the teeth with custom-made clear aligners without the use of braces. Since the aligners are removable, they are comfortable to use. They are ideal for adults who are concerned about appearance.",
+
+  "service_pedo_title": "Pediatric Dentistry (Pedodontics)",
+  "service_pedo_desc": "Covers the treatment of primary and permanent teeth of children between 0–13 years of age. Dental caries, preventive applications (fissure sealant, fluoride), trauma treatments, and extraction–prosthesis procedures specific to children are performed. A gentle, reassuring approach tailored to children is of great importance.",
+
+  "service_root_title": "Root Canal Treatment (Endodontics)",
+  "service_root_desc": "Applied when the nerve tissue inside the tooth becomes inflamed due to advanced decay or trauma. The inside of the tooth is cleaned and shaped, then filled with special filling materials. It allows the tooth to remain in the mouth in a functional way without extraction.",
+
+  "service_scaling_title": "Tartar Cleaning (Detartrage)",
+  "service_scaling_desc": "Removal of tartar (calculus) and plaque accumulated on the teeth using ultrasonic devices. It protects gum health, reduces bad breath and lowers the risk of tooth loss. It is generally recommended at regular intervals every 6 months.",
+
+  "service_perio_title": "Gum Disease Treatment (Periodontology)",
+  "service_perio_desc": "Treatment of gum inflammation (gingivitis) and advanced gum diseases (periodontitis). The aim is to prevent gum bleeding, swelling, recession and tooth mobility. When necessary, surgical procedures are used to support the gums and surrounding tissues.",
+
+  "service_smiledesign_title": "Smile Design",
+  "service_smiledesign_desc": "An aesthetic smile design tailored to the person’s facial shape, teeth and gum structure. It can combine applications such as zirconium crowns, laminate veneers, whitening and gum aesthetics. In addition to aesthetics, chewing function and long-term comfort are also important.",
+
+  "service_prosthesis_title": "Dental Prostheses",
+  "service_prosthesis_desc": "Artificial teeth used to replace missing teeth, either fixed or removable. There are total (full) dentures, partial dentures and implant-supported prosthesis options. They aim to restore both aesthetic appearance and chewing functions.",
+
+  "service_surgery_title": "Surgical Tooth Extraction",
+  "service_surgery_desc": "Surgical removal of broken, impacted or difficult-to-extract teeth. It is frequently applied especially for fully or partially impacted wisdom teeth. It is performed under local anesthesia in a controlled and painless way.",
+
+  "gallery_title": "Gallery",
+  "gallery_item_alt": "Treatment example {{n}}",
+
+  "reviews_title": "Patient Reviews",
+  "reviews_widget_label": "Google reviews widget",
+
+  "contact_heading": "Get in Touch",
+  "contact_subheading": "You can reach us for appointments and questions using the information below.",
+  "contact_email_label": "Email",
+  "contact_phone_label": "Phone",
+  "contact_address_label": "Address",
+  "contact_address_lines": "Atikdent Dental Clinic\nÇaybaşı, Birhan Sk. No:14 Floor:1 Apartment:101\nMeram/Konya",
+  "contact_form_heading": "Send a Message",
+  "contact_form_aria": "Message sending form",
+  "contact_label_name": "Your Name",
+  "contact_label_email": "Email",
+  "contact_label_message": "Your Message",
+  "contact_button_submit": "Send",
+  "contact_submit_success": "Your message has been sent successfully. Thank you!",
+  "contact_submit_error": "Sending failed. Please try again.",
+
+  "footer_home": "Home",
+  "footer_about": "About Us",
+  "footer_doctors": "Doctors",
+  "footer_services": "Services",
+  "footer_gallery": "Gallery",
+  "footer_reviews": "Reviews",
+  "footer_contact": "Contact",
+  "footer_quick_links": "Quick Access",
+  "footer_quick_links_title": "Quick access links",
+  "footer_follow_us": "Follow Us",
+  "footer_instagram": "Atikdent Instagram page",
+  "footer_rights": "All rights reserved.",
+  "backtotop_aria": "Go to the top of the page",
+  "stickycta_button": "Book Appointment",
+  "stickycta_aria": "Go to the contact section to book an appointment"
+}

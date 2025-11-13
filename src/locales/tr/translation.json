@@ -1,0 +1,122 @@
+{
+  "nav_about": "Hakkımızda",
+  "nav_doctors": "Doktorlar",
+  "nav_services": "Hizmetler",
+  "nav_gallery": "Galeri",
+  "nav_reviews": "Yorumlar",
+  "nav_contact": "İletişim",
+  "cta_appointment": "Randevu Al",
+
+  "hero_title": "Sağlıklı Gülüşler, Güvenli Eller",
+  "hero_text": "Düzenli muayene, diştatşı temizliği, kontrol ve hijyen seanslarıyla sizler mutlu, dişleriniz sağlıklı.",
+
+  "about_title": "Hakkımızda",
+  "about_text": "Ağız ve diş sağlığı, yalnızca estetik bir konu değil; yaşam kalitesi, genel sağlık ve özgüvenin ayrılmaz bir parçasıdır.\n     Atikdent’te her bireyin ihtiyaçlarına özel olarak planlanan, bilimsel temellere dayanan ve uzun vadeli sonuçlara odaklanan diş hekimliği uygulamaları sunuyoruz.\n",
+
+  "contact_title": "Bize Ulaşın",
+  "contact_text": "Randevu ve sorularınız için aşağıdaki bilgilerden bize ulaşabilirsiniz.",
+  "form_name": "Adınız",
+  "form_email": "E-posta",
+  "form_message": "Mesajınız",
+  "form_submit": "Gönder",
+
+  "footer_copy": "© {{year}} Atikdent Diş Kliniği. Tüm hakları saklıdır.",
+  "footer_quick": "Hızlı Erişim",
+
+  "feature_smile_title": "Güler Yüzlü Hizmet",
+  "feature_smile_desc": "Sizlere her zaman sıcak ve samimi bir ortam sunuyoruz.",
+  "feature_tech_title": "Modern Teknoloji",
+  "feature_tech_desc": "En son model dijital diş hekimliği ekipmanlarıyla çalışıyoruz.",
+  "feature_care_title": "Kişiye Özel İlgi",
+  "feature_care_desc": "Tedavi planınızı tamamen sizden gelen geri bildirimlerle şekillendiriyoruz.",
+
+  "doctors_title": "Doktorlarımız",
+  "doctors_sub": "Profesyonel ekibimizle tanışın.",
+
+  "services_title": "Hizmetlerimiz",
+  "services_sub": "Tedavi sürecinde yalnızca dişe değil, kişinin hayatına dokunduğumuzu bilerek hareket ederiz. Aşağıda yer alan tedavi başlıklarından sizin için uygun olanlara göz atabilir, her biri hakkında detaylı bilgilere alt sayfalarımızdan ulaşabilirsiniz.\n",
+
+
+  "service_general_title": "Genel Diş Bakımı",
+  "service_general_desc": "Düzenli muayene ve hijyen seanslarıyla sağlıklı dişler.",
+  "service_cosmetic_title": "Estetik Dolgu & Veneer",
+  "service_cosmetic_desc": "Doğal görünüm için en kaliteli malzemeler.",
+
+
+
+  "service_implant_title": "İmplant Tedavisi",
+  "service_implant_desc": "Eksik dişlerin yerine, çene kemiğine yerleştirilen titanyum vidalar (implantlar) sayesinde sabit diş protezleri uygulanır. Estetik ve fonksiyonel açıdan doğal dişe en yakın çözümdür. Uygun kemik yapısına sahip hastalarda uzun ömürlü bir tedavi seçeneğidir.",
+
+  "service_whitening_title": "Diş Beyazlatma (Bleaching)",
+  "service_whitening_desc": "Zamanla renk değiştiren dişlerin, özel jeller ve ışık sistemleriyle birkaç ton açılması işlemidir. Klinik ortamda yapılan beyazlatma, hızlı ve güvenli sonuçlar sunar. Kısa sürede estetik bir gülüş elde etmek isteyenler için idealdir.",
+
+  "service_zirconium_title": "Zirkonyum Kaplama",
+  "service_zirconium_desc": "Zirkonyum esaslı beyaz renkli materyallerle yapılan estetik diş kaplamalarıdır. Metal içermez, ışık geçirgenliği sayesinde doğal diş görünümüne sahiptir. Özellikle ön bölge diş estetiği için tercih edilir.",
+
+  "service_veneer_title": "Lamine (Kompozit Veneer)",
+  "service_veneer_desc": "Diş yüzeyine uygulanan ince tabaka şeklinde kompozit materyalle yapılan estetik uygulamalardır. Dişin şeklini ve rengini hızlıca değiştirmek için kullanılır. Aşındırma işlemi minimum düzeydedir ve çoğu zaman tek seansta tamamlanabilir.",
+
+  "service_ortho_title": "Ortodonti (Tel Tedavisi)",
+  "service_ortho_desc": "Çapraşık dişlerin ve kapanış bozukluklarının düzeltilmesini sağlayan klasik braketli sistemdir. Metal veya estetik (şeffaf) braket seçenekleriyle uygulanabilir. Hem çocuklarda hem yetişkinlerde kullanılabilir.",
+
+  "service_clearalign_title": "Şeffaf Plak (Invisalign)",
+  "service_clearalign_desc": "Tel kullanmadan, kişiye özel üretilen şeffaf plaklarla dişlerin hizalanmasını sağlayan estetik ortodonti yöntemidir. Plaklar çıkarılabilir olduğu için konforludur. Estetik kaygısı olan yetişkinler için idealdir.",
+
+  "service_pedo_title": "Çocuk Diş Hekimliği (Pedodonti)",
+  "service_pedo_desc": "0–13 yaş arası çocukların süt ve daimi dişlerinin tedavilerini kapsar. Diş çürükleri, koruyucu uygulamalar (fissür örtücü, flor), travma tedavileri ve çocuklara özel çekim-protez işlemleri yapılır. Çocuklara özel, hassas ve güven verici yaklaşım büyük önem taşır.",
+
+  "service_root_title": "Kanal Tedavisi (Endodonti)",
+  "service_root_desc": "İlerlemiş çürükler veya travma sonucu dişin iç kısmındaki sinir dokusunun iltihaplanması durumunda uygulanır. Dişin içi temizlenerek şekillendirilir ve özel dolgu malzemeleriyle doldurulur. Dişin çekilmeden ağızda fonksiyonel şekilde kalmasını sağlar.",
+
+  "service_scaling_title": "Diş Taşı Temizliği (Detartraj)",
+  "service_scaling_desc": "Dişlerin üzerinde biriken tartar (diş taşı) ve plakların ultrasonik cihazlarla temizlenmesi işlemidir. Diş eti sağlığını korur, ağız kokusunu azaltır ve diş kaybı riskini düşürür. Genellikle 6 ayda bir düzenli olarak yapılması önerilir.",
+
+  "service_perio_title": "Diş Eti Hastalıkları Tedavisi (Periodontoloji)",
+  "service_perio_desc": "Diş eti iltihabı (gingivitis) ve ileri seviye diş eti hastalıkları (periodontitis) tedavi edilir. Diş eti kanaması, şişlik, çekilme ve dişlerde sallanma gibi durumların önüne geçilmesi hedeflenir. Gerekirse cerrahi işlemlerle diş eti ve çevre dokular desteklenir.",
+
+  "service_smiledesign_title": "Gülüş Tasarımı",
+  "service_smiledesign_desc": "Kişinin yüz şekline, diş ve diş eti yapısına uygun olarak estetik bir gülümseme oluşturma işlemidir. Zirkonyum kaplama, lamine veneer, beyazlatma ve diş eti estetiği gibi uygulamaları bir arada barındırabilir. Estetik görünüm kadar çiğneme fonksiyonu ve uzun süreli konfor da önemlidir.",
+
+  "service_prosthesis_title": "Protez Dişler",
+  "service_prosthesis_desc": "Eksik dişlerin yerine kullanılan sabit ya da hareketli yapay dişlerdir. Total (tam) protez, parsiyel (kısmi) protez ve implant üstü protez seçenekleri mevcuttur. Hem estetik görünümü hem de çiğneme fonksiyonlarını geri kazandırmayı amaçlar.",
+
+  "service_surgery_title": "Cerrahi Diş Çekimi",
+  "service_surgery_desc": "Kırık, gömülü veya çıkması zor olan dişlerin cerrahi yöntemlerle çekilmesi işlemidir. Özellikle tam gömülü veya yarı gömülü yirmi yaş dişlerinde sıkça uygulanır. Lokal anestezi altında, kontrollü ve ağrısız bir şekilde gerçekleştirilir.",
+
+  "gallery_title": "Galeri",
+  "gallery_item_alt": "Tedavi örnek {{n}}",
+
+  "reviews_title": "Hasta Yorumları",
+  "reviews_widget_label": "Google yorumları widget",
+
+  "contact_heading": "Bize Ulaşın",
+  "contact_subheading": "Randevu ve sorularınız için aşağıdaki bilgilerden bize ulaşabilirsiniz.",
+  "contact_email_label": "E-posta",
+  "contact_phone_label": "Telefon",
+  "contact_address_label": "Adres",
+  "contact_address_lines": "Atikdent Diş Kliniği\nÇaybaşı, Birhan Sk. No:14 Kat:1 Daire:101\nMeram/Konya",
+  "contact_form_heading": "Mesaj Gönder",
+  "contact_form_aria": "Mesaj gönderme formu",
+  "contact_label_name": "Adınız",
+  "contact_label_email": "E-posta",
+  "contact_label_message": "Mesajınız",
+  "contact_button_submit": "Gönder",
+  "contact_submit_success": "Mesajınız başarıyla gönderildi. Teşekkürler!",
+  "contact_submit_error": "Gönderim başarısız. Lütfen tekrar deneyin.",
+
+  "footer_home": "Anasayfa",
+  "footer_about": "Hakkımızda",
+  "footer_doctors": "Doktorlar",
+  "footer_services": "Hizmetler",
+  "footer_gallery": "Galeri",
+  "footer_reviews": "Yorumlar",
+  "footer_contact": "İletişim",
+  "footer_quick_links": "Hızlı Erişim",
+  "footer_quick_links_title": "Hızlı erişim linkleri",
+  "footer_follow_us": "Bizi Takip Edin",
+  "footer_instagram": "Atikdent Instagram sayfası",
+  "footer_rights": "Tüm hakları saklıdır.",
+  "backtotop_aria": "Sayfanın en üstüne git",
+  "stickycta_button": "Randevu Al",
+  "stickycta_aria": "Randevu almak için iletişim bölümüne git"
+}
