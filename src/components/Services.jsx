@@ -75,42 +75,79 @@ export default function Services() {
         },
     ];
 
+    // Grid ve kartlar için küçük bir variant
+    const containerVariants = {
+        hidden: { opacity: 0, y: 40 },
+        visible: {
+            opacity: 1,
+            y: 0,
+            transition: {
+                duration: 0.6,
+                ease: 'easeOut',
+                staggerChildren: 0.05,
+            },
+        },
+    };
+
+    const cardVariants = {
+        hidden: { opacity: 0, y: 30 },
+        visible: { opacity: 1, y: 0 },
+    };
+
     return (
-        <motion.section
+        <section
             id="services"
             role="region"
             aria-labelledby="services-title"
             className="py-16 bg-gray-50"
-            initial={{ opacity: 0, y: 50 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, amount: 0.3 }}
-            transition={{ duration: 0.6, ease: 'easeOut' }}
         >
             <div className="max-w-6xl mx-auto px-4 text-center">
-                <h2 id="services-title" className="text-2xl sm:text-3xl font-bold text-blue-800">
-                    {t('services_title')}
-                </h2>
-                <p className="mt-4 text-gray-600 text-base sm:text-lg">
-                    {t('services_sub')}
-                </p>
-                <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                {/* Başlık + açıklama animasyonu */}
+                <motion.div
+                    initial={{ opacity: 0, y: 40 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true, amount: 0.3 }}
+                    transition={{ duration: 0.6, ease: 'easeOut' }}
+                >
+                    <h2
+                        id="services-title"
+                        className="text-2xl sm:text-3xl font-bold text-blue-800"
+                    >
+                        {t('services_title')}
+                    </h2>
+                    <p className="mt-4 text-gray-600 text-base sm:text-lg">
+                        {t('services_sub')}
+                    </p>
+                </motion.div>
+
+                {/* Kartlar için scroll animasyonu */}
+                <motion.div
+                    className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
+                    variants={containerVariants}
+                    initial="hidden"
+                    whileInView="visible"
+                    viewport={{ once: true, amount: 0.2 }}
+                >
                     {services.map((svc) => (
-                        <article
+                        <motion.article
                             key={svc.titleKey}
+                            variants={cardVariants}
                             className="bg-white p-6 rounded-2xl shadow hover:shadow-lg transition-shadow"
                             aria-label={t(svc.titleKey)}
                         >
-                            <div className="mb-4" aria-hidden="true">{svc.icon}</div>
+                            <div className="mb-4" aria-hidden="true">
+                                {svc.icon}
+                            </div>
                             <h3 className="text-xl font-semibold text-blue-800 mb-2">
                                 {t(svc.titleKey)}
                             </h3>
                             <p className="text-gray-600 text-sm sm:text-base">
                                 {t(svc.descKey)}
                             </p>
-                        </article>
+                        </motion.article>
                     ))}
-                </div>
+                </motion.div>
             </div>
-        </motion.section>
+        </section>
     );
 }
