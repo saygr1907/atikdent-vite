@@ -138,6 +138,12 @@ export default function Contact() {
                                 <div>
                                     <h3 className="font-semibold">{t('contact_phone_label')}</h3>
                                     <a href="tel:+905366257264" className="text-blue-800 hover:underline">
+                                        +90 (332) 350 19 73
+                                    </a>
+                                </div>
+                                <div>
+                                    <h3 className="font-semibold">{t('contact_phone_label')}</h3>
+                                    <a href="tel:+905366257264" className="text-blue-800 hover:underline">
                                         +90 (536) 625 72 64
                                     </a>
                                 </div>

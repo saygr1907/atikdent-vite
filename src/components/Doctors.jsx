@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import DrAtike from '../assets/doctors/dr-atike.jpg';
 import DrEmin from '../assets/doctors/dr-emin.jpg';
+import DrSengul from '../assets/doctors/dr-sengul.jpg';
 
 export default function Doctors() {
     const { t } = useTranslation();
@@ -11,6 +12,8 @@ export default function Doctors() {
     const doctors = [
         { img: DrAtike, name: 'Dt. Atike Atmaca'},
         { img: DrEmin,  name: 'Dt. M. Emin Atmaca'},
+        { img: DrSengul,  name: 'Dt. Şengül Çaycı'},
+
     ];
 
     return (
@@ -31,7 +34,7 @@ export default function Doctors() {
                 <p className="mt-4 text-gray-600 text-base sm:text-lg">
                     {t('doctors_sub')}
                 </p>
-                <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-8">
+                <div className="mt-10 grid grid-cols-1 sm:grid-cols-3 gap-8">
                     {doctors.map(doc => (
                         <article
                             key={doc.name}
